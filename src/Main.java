@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws java.io.IOException {
-        //PUNTO 1
         Scanner tomarParametros = new Scanner(System.in);
         int[] valoresDelUsuario = new int[3];
         System.out.println("Ingrese el primer valor: ");
